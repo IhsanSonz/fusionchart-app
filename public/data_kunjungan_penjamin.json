@@ -1,12 +1,14 @@
 {
   "type": "pie2d",
   "width": "100%",
-  "height": "1024",
+  "height": "720",
   "dataFormat": "json",
   "dataSource": {
     "chart": {
       "caption": "Data Perbandingan Kunjungan Pasien Umum, BPJS, dan Asuransi",
       "subCaption": "Data 1 Juli 2023 s/d 31 Oktober 2023",
+      "captionFontSize": "2em",
+      "subCaptionFontSize": "1.5em",
       "useDataPlotColorForLabels": "1",
       "theme": "fusion"
     },
