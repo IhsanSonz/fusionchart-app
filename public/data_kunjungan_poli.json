@@ -1,0 +1,65 @@
+{
+  "type": "column2d",
+  "width": "100%",
+  "height": "1024",
+  "dataFormat": "json",
+  "dataSource": {
+    "chart": {
+      "caption": "Laporan Jumlah Kunjungan Pasien Rawat Jalan",
+      "subCaption": "Data 1 Juli 2023 s/d 31 Oktober 2023",
+      "xAxisName": "Nama Poliklinik",
+      "yAxisName": "Jumlah Pasien",
+      "theme": "fusion"
+    },
+    "data": [
+      {
+        "label": "KLINIK SARAF",
+        "value": 2969
+      },
+      {
+        "label": "KLINIK ANAK",
+        "value": 1510
+      },
+      {
+        "label": "KLINIK REHABILITASI MEDIK",
+        "value": 2041
+      },
+      {
+        "label": "KLINIK BEDAH UROLOGI",
+        "value": 1538
+      },
+      {
+        "label": "KLINIK MATA",
+        "value": 1008
+      },
+      {
+        "label": "KLINIK JANTUNG",
+        "value": 2677
+      },
+      {
+        "label": "KLINIK THALASEMIA",
+        "value": 4473
+      },
+      {
+        "label": "KLINIK SUB BEDAH - ONKOLOGI",
+        "value": 1841
+      },
+      {
+        "label": "KLINIK PENYAKIT DALAM",
+        "value": 4953
+      },
+      {
+        "label": "KLINIK GIGI BEDAH MULUT",
+        "value": 2106
+      },
+      {
+        "label": "KLINIK PARU",
+        "value": 1412
+      },
+      {
+        "label": "KLINIK SUB GINJAL HIPERTENSI",
+        "value": 1037
+      }
+    ]
+  }
+}

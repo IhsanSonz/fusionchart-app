@@ -1,0 +1,172 @@
+{
+  "type": "stackedarea2d",
+  "width": "100%",
+  "height": "1024",
+  "dataFormat": "json",
+  "dataSource": {
+    "chart": {
+      "caption": "Total Pendapatan Kasir per Tipe Tagihan",
+      "subCaption": "Data Bulan Juli 2023 s/d Oktober 2023",
+      "xAxisname": "Bulan",
+      "yAxisName": "Total",
+      "numberPrefix": "$",
+      "theme": "fusion"
+    },
+    "categories": [
+      {
+        "category": [
+          {
+            "label": "Juli"
+          },
+          {
+            "label": "Agustus"
+          },
+          {
+            "label": "September"
+          },
+          {
+            "label": "Oktober"
+          }
+        ]
+      }
+    ],
+    "dataset": [
+      {
+        "seriesname": "Administrasi",
+        "data": [
+          {
+            "value": 42210000
+          },
+          {
+            "value": 45040000
+          },
+          {
+            "value": 43120000
+          },
+          {
+            "value": 43910000
+          }
+        ]
+      },
+      {
+        "seriesname": "Biaya Kamar",
+        "data": [
+          {
+            "value": 3271120000
+          },
+          {
+            "value": 3435192000
+          },
+          {
+            "value": 3458258650
+          },
+          {
+            "value": 3551595000
+          }
+        ]
+      },
+      {
+        "seriesname": "Biaya Laboratorium",
+        "data": [
+          {
+            "value": 1352212056
+          },
+          {
+            "value": 1358573982
+          },
+          {
+            "value": 1263562570
+          },
+          {
+            "value": 1373508348
+          }
+        ]
+      },
+      {
+        "seriesname": "Biaya Obat - Obatan",
+        "data": [
+          {
+            "value": 7870799343
+          },
+          {
+            "value": 7810473054
+          },
+          {
+            "value": 7826364413
+          },
+          {
+            "value": 8187738943
+          }
+        ]
+      },
+      {
+        "seriesname": "Biaya Pemakaian Peralatan",
+        "data": [
+          {
+            "value": 557429350
+          },
+          {
+            "value": 710774975
+          },
+          {
+            "value": 799086650
+          },
+          {
+            "value": 619804575
+          }
+        ]
+      },
+      {
+        "seriesname": "Biaya Radiologi",
+        "data": [
+          {
+            "value": 632389999
+          },
+          {
+            "value": 638379332
+          },
+          {
+            "value": 679992206
+          },
+          {
+            "value": 669018636
+          }
+        ]
+      },
+      {
+        "seriesname": "Biaya Tindakan",
+        "data": [
+          {
+            "value": 3414763479
+          },
+          {
+            "value": 3524169727
+          },
+          {
+            "value": 4069279503
+          },
+          {
+            "value": 4074268894
+          }
+        ]
+      },
+      {
+        "seriesname": "Lain-lain",
+        "data": [
+          {
+            "value": 5256511185
+          },
+          {
+            "value": 5645206885
+          },
+          {
+            "value": 5546269068
+          },
+          {
+            "value": 5660696122
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "type": "doughnut2d",
+  "width": "100%",
+  "height": "1024",
+  "dataFormat": "json",
+  "dataSource": {
+    "chart": {
+      "caption": "Pembagian Pendapatan Kasir per Tipe Tagihan",
+      "subCaption": "Data Bulan Juli 2023 s/d Oktober 2023",
+      "decimals": "1",
+      "theme": "fusion"
+    },
+    "data": [
+      {
+        "label": "Administrasi",
+        "value": 174280000
+      },
+      {
+        "label": "Biaya Kamar",
+        "value": 13716165650
+      },
+      {
+        "label": "Biaya Laboratorium",
+        "value": 5347856956
+      },
+      {
+        "label": "Biaya Obat - Obatan",
+        "value": 31695375753
+      },
+      {
+        "label": "Biaya Pemakaian Peralatan",
+        "value": 2687095550
+      },
+      {
+        "label": "Biaya Radiologi",
+        "value": 2619780173
+      },
+      {
+        "label": "Biaya Tindakan",
+        "value": 15082481603
+      },
+      {
+        "label": "Lain-lain",
+        "value": 22108683260
+      }
+    ]
+  }
+}

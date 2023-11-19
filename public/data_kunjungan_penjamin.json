@@ -1,0 +1,28 @@
+{
+  "type": "pie2d",
+  "width": "100%",
+  "height": "1024",
+  "dataFormat": "json",
+  "dataSource": {
+    "chart": {
+      "caption": "Data Perbandingan Kunjungan Pasien Umum, BPJS, dan Asuransi",
+      "subCaption": "Data 1 Juli 2023 s/d 31 Oktober 2023",
+      "useDataPlotColorForLabels": "1",
+      "theme": "fusion"
+    },
+    "data": [
+      {
+        "label": "Asuransi",
+        "value": 151
+      },
+      {
+        "label": "Umum",
+        "value": 2241
+      },
+      {
+        "label": "BPJS",
+        "value": 31487
+      }
+    ]
+  }
+}
